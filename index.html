@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SF Bay Area Restaurant Guide</title>
+  <style>
+    :root {
+      --bg: #faf9f6;
+      --text: #2c2c2c;
+      --accent: #b44a2d;
+      --muted: #7a7a7a;
+      --card-bg: #ffffff;
+      --border: #e8e4df;
+      --section-bg: #f3f0eb;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+
+    header {
+      text-align: center;
+      padding: 4rem 2rem 3rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    header h1 {
+      font-size: 2.6rem;
+      font-weight: 400;
+      letter-spacing: 0.04em;
+      margin-bottom: 0.5rem;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+
+    .section {
+      margin-bottom: 2.5rem;
+    }
+
+    .section h2 {
+      font-size: 1.3rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--accent);
+      border-bottom: 2px solid var(--accent);
+      padding-bottom: 0.4rem;
+      margin-bottom: 1rem;
+    }
+
+    .restaurant-list {
+      list-style: none;
+    }
+
+    .restaurant-list li {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding: 0.6rem 0;
+      border-bottom: 1px dotted var(--border);
+    }
+
+    .restaurant-list li:last-child {
+      border-bottom: none;
+    }
+
+    .restaurant-name {
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+
+    .restaurant-location {
+      font-size: 0.9rem;
+      color: var(--muted);
+      font-style: italic;
+      text-align: right;
+      flex-shrink: 0;
+      margin-left: 1rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+      border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.8rem; }
+      .restaurant-list li { flex-direction: column; }
+      .restaurant-location { margin-left: 0; text-align: left; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>SF Bay Area Restaurant Guide</h1>
+  <p>A curated collection of favorite spots across San Francisco &amp; the East Bay</p>
+</header>
+
+<div class="container">
+
+  <div class="section">
+    <h2>Fine Dining</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">French Laundry</span><span class="restaurant-location">Yountville</span></li>
+      <li><span class="restaurant-name">Atelier Crenn</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Saison</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Benu</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Quince</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Lazy Bear</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Commis</span><span class="restaurant-location">Oakland</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Modern American</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">State Bird Provisions</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Ernest</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Octavia</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Foreign Cinema</span><span class="restaurant-location">Mission, SF</span></li>
+      <li><span class="restaurant-name">Viridian</span><span class="restaurant-location">San Francisco</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Italian</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">Cotogna</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Sotto Mare</span><span class="restaurant-location">North Beach, SF</span></li>
+      <li><span class="restaurant-name">Caravaggio's</span><span class="restaurant-location">San Francisco</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Chinese</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">Harborview Dimsum</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Mission Chinese</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Chili House</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">San Tung</span><span class="restaurant-location">Sunset, SF</span></li>
+      <li><span class="restaurant-name">Ming's Tasty</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Gum Kuo</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Hai Ky Mi Gia</span><span class="restaurant-location">San Francisco</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Thai</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">Kin Khao</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Lers Ros Thai</span><span class="restaurant-location">San Francisco</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Japanese</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">Mensho</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Ippuku</span><span class="restaurant-location">Berkeley</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Vietnamese</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">T&iacute;n</span><span class="restaurant-location">San Francisco</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Korean</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">Seoul Gom Tang</span><span class="restaurant-location">San Francisco</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Burmese</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">Mandalay Restaurant</span><span class="restaurant-location">San Francisco</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Turkish &amp; Mediterranean</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">Anatolian Table</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Presidio Kebab</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Sofiya</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Biryani Tikka Kebab</span><span class="restaurant-location">Oakland</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Seafood</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">Swan Oyster Depot</span><span class="restaurant-location">Nob Hill, SF</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Mexican</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">La Taqueria</span><span class="restaurant-location">Mission, SF</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Other</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">Four Kings</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Saul's Delicatessen</span><span class="restaurant-location">Berkeley</span></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Wine, Cider &amp; Cocktails</h2>
+    <ul class="restaurant-list">
+      <li><span class="restaurant-name">Verjus</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Punchdown</span><span class="restaurant-location">San Francisco</span></li>
+      <li><span class="restaurant-name">Ordinaire</span><span class="restaurant-location">Oakland</span></li>
+      <li><span class="restaurant-name">Redfield Cider</span><span class="restaurant-location">Oakland</span></li>
+      <li><span class="restaurant-name">True Laurel</span><span class="restaurant-location">San Francisco</span></li>
+    </ul>
+  </div>
+
+</div>
+
+<footer>
+  Last updated April 2026
+</footer>
+
+</body>
+</html>
