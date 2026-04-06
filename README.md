@@ -14,6 +14,9 @@ A curated list of favorite restaurants in San Francisco and the East Bay.
 | **Benu** | San Francisco |
 | **Quince** | San Francisco |
 | **Lazy Bear** | San Francisco |
+| **Single Thread** | Healdsburg |
+| **Kusakabe** | San Francisco |
+| **Bar Crenn** | San Francisco |
 | **Commis** | Oakland |
 
 ## Modern American
@@ -25,7 +28,14 @@ A curated list of favorite restaurants in San Francisco and the East Bay.
 | **Octavia** | San Francisco |
 | **Foreign Cinema** | Mission, SF |
 | **Viridian** | San Francisco |
-| **Cotogna** | San Francisco |
+| **Rich Table** | San Francisco |
+
+## Steakhouse
+
+| Restaurant | Location |
+|---|---|
+| **House of Prime Rib** | San Francisco |
+| **Superprime Steakhouse** | San Francisco |
 
 ## Seafood
 
@@ -45,7 +55,10 @@ A curated list of favorite restaurants in San Francisco and the East Bay.
 | Restaurant | Location |
 |---|---|
 | **Cotogna** | San Francisco |
+| **Cotogna** | San Francisco |
 | **Caravaggio's** | San Francisco |
+| **Marcella's Lasagneria** | San Francisco |
+| **Belotti Restaurant e Bottega** | Oakland |
 
 ## Chinese
 
@@ -58,6 +71,7 @@ A curated list of favorite restaurants in San Francisco and the East Bay.
 | **Ming's Tasty** | San Francisco |
 | **Gum Kuo** | San Francisco |
 | **Hai Ky Mi Gia** | San Francisco |
+| **Northern China BBQ** | San Francisco |
 
 ## Thai
 
@@ -72,6 +86,7 @@ A curated list of favorite restaurants in San Francisco and the East Bay.
 |---|---|
 | **Mensho** | San Francisco |
 | **Ippuku** | Berkeley |
+| **Rintaro** | San Francisco |
 
 ## Vietnamese
 
@@ -84,12 +99,14 @@ A curated list of favorite restaurants in San Francisco and the East Bay.
 | Restaurant | Location |
 |---|---|
 | **Seoul Gom Tang** | San Francisco |
+| **San Ho Won** | San Francisco |
 
 ## Burmese
 
 | Restaurant | Location |
 |---|---|
 | **Mandalay Restaurant** | San Francisco |
+| **Yamo** | San Francisco |
 
 ## Turkish & Mediterranean
 
@@ -105,6 +122,13 @@ A curated list of favorite restaurants in San Francisco and the East Bay.
 | Restaurant | Location |
 |---|---|
 | **Four Kings** | San Francisco |
+
+## Cafe & Specialty
+
+| Restaurant | Location |
+|---|---|
+| **Dandelion Chocolate** | San Francisco |
+| **Song Tea and Ceramics** | San Francisco |
 
 ## Wine, Cider & Cocktails
 
