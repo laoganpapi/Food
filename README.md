@@ -29,6 +29,7 @@ A curated list of favorite restaurants in San Francisco and the East Bay.
 | **Foreign Cinema** | Mission, SF |
 | **Viridian** | San Francisco |
 | **Rich Table** | San Francisco |
+| **Pomet** | San Francisco |
 
 ## Steakhouse
 
@@ -107,6 +108,12 @@ A curated list of favorite restaurants in San Francisco and the East Bay.
 |---|---|
 | **Mandalay Restaurant** | San Francisco |
 | **Yamo** | San Francisco |
+
+## African
+
+| Restaurant | Location |
+|---|---|
+| **Sheba** | Oakland |
 
 ## Turkish & Mediterranean
 
