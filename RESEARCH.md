@@ -17,7 +17,7 @@
 
 **Sources**: Michelin Guide 2025-2026, Eater national/regional, The Infatuation, SF Standard, Resy, James Beard Awards, LA Times/LA Taco, Seattle Met, Brad A. Johnson (OC), and cross-referenced against multiple critics.
 
-**Total picks: 47** (target: ~10 per city)
+**Total picks: 45** (target: ~10 per city)
 
 ---
 
@@ -30,13 +30,11 @@
 |---|---|---|
 | **Wolfsbane** | From Lord Stanley team. 10-12 course seasonal in Dogpatch. Added to 2026 Michelin Guide. The most talked-about new fine dining opening in SF. | ~$300 |
 | **Kiln** | Two Michelin stars (promoted 2025). Fermentation-driven, deceptively simple. Hayes Valley. | ~$275 |
-| **Birdsong** | Two Michelin stars. Live-fire, hyper-seasonal. Same spirit as Saison but its own voice. | ~$275 |
 | **Merchant Roots** | 8 seats. Menu, decor, and format change every 3 months. More intimate than Lazy Bear. | ~$190 |
 
 ### Asian
 | Restaurant | Why | Price |
 |---|---|---|
-| **Mister Jiu's** | First Chinese restaurant in SF to earn a Michelin star. Modern Cantonese. The obvious gap in your list. | ~$100-200 |
 | **The Happy Crane** | Eater's 15 Best New Restaurants in America 2025. Modern dim sum in Hayes Valley. James Beard semifinalist. | ~$70 |
 | **Ju-ni** | Michelin-starred sushi omakase. 12-seat counter, fish from Toyosu Market. Your next step after Kusakabe. | ~$228 |
 | **Hed 11** | 11-course Thai tasting menu from a Michelin-starred Bangkok chef. Thai + tasting menu barely exists in SF. | ~$150 |
@@ -71,7 +69,7 @@
 |---|---|---|
 | **Sapp Coffee Shop** | Thai Town since the 1970s. Jonathan Gold's beloved. Devastating boat noodle soup. The Yamo of LA. | ~$12 |
 | **Night + Market** | Chef Kris Yenbamroong's bold, funky Thai. Pastrami drunken noodles. State Bird energy applied to Thai food. | ~$25 |
-| **Park's BBQ** | Consensus best Korean BBQ in LA. High-quality meat, smokeless grills. The standard. | ~$65 |
+| **Chosun Galbee** | Old-school Koreatown KBBQ. Superior galbi and banchan depth. A cut above the rest. | ~$65 |
 | **Xiang La Hui** | Sleeper Sichuan hit in SGV. Chongqing fried chicken, toothpick lamb. Rewards knowing what to order. | ~$20 |
 
 ### Mexican
@@ -210,12 +208,12 @@
 
 | City | Fine Dining | Asian | Wine | Hole-in-the-Wall | Modern/Italian | Total |
 |---|---|---|---|---|---|---|
-| SF | 4 | 5 | 1 | — | 2 | 12 |
+| SF | 3 | 4 | 1 | — | 2 | 10 |
 | LA | 3 | 4 | 1 | 2 | 1 | 11 |
 | Seattle | 2 | 3 | 2 | 2 | 1 | 10 |
 | NYC | 2 | 4 | 1 | — | 2 | 10* |
 | OC | 2 | 4 | 1 | — | — | 8* |
-| **Total** | **13** | **20** | **6** | **4** | **6** | **47** |
+| **Total** | **12** | **19** | **6** | **4** | **6** | **45** |
 
 *NYC and OC totals include specialty/tea picks
 
@@ -223,7 +221,7 @@
 
 | City | The One | Why |
 |---|---|---|
-| SF | **Mister Jiu's** | The most obvious gap in your current list — Michelin-starred modern Chinese in Chinatown |
+| SF | **The Happy Crane** | Eater's Best New in America, James Beard semifinalist — modern dim sum that bridges your fine dining and Chinese food loves |
 | LA | **n/naka** | Modern kaiseki that bridges your love of Japanese craft and tasting menus |
 | Seattle | **Canlis** | The definitive Pacific NW fine dining experience, at a historic peak |
 | NYC | **Atomix** | Korean tasting menu that does for Korean food what Benu does for Chinese |
