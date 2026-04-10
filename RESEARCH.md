@@ -17,7 +17,7 @@
 
 **Sources**: Michelin Guide 2025-2026, Eater national/regional, The Infatuation, SF Standard, Resy, James Beard Awards, LA Times/LA Taco, Seattle Met, Brad A. Johnson (OC), and cross-referenced against multiple critics.
 
-**Total picks: 45** (target: ~10 per city)
+**Total picks: 57** (target: ~10 per city)
 
 ---
 
@@ -204,18 +204,57 @@
 
 ---
 
-## Summary: All 47 Picks at a Glance
+## Ho Chi Minh City (12 picks)
 
-| City | Fine Dining | Asian | Wine | Hole-in-the-Wall | Modern/Italian | Total |
+*HCMC is one of the world's greatest food cities. The street food here isn't "hole-in-the-wall" in the US sense -- these are 50-70 year-old institutions, still cooking on charcoal, still run by founding families. The fine dining scene is younger and more exciting than most people realize.*
+
+### Fine Dining / Tasting Menus
+| Restaurant | Why | Price |
+|---|---|---|
+| **Anan Saigon** | One Michelin star, Asia's 50 Best. Chef Peter Cuong Franklin elevates street food into a 12-course tasting. Pho made with consomme, wagyu, foie gras. The Benu of HCMC. District 1. | ~$100 |
+| **CieL** | One Michelin star, earned 7 months after opening (2025). Chef Le Viet Hong (Michelin Young Chef Award). French technique with Vietnamese soul. Thao Dien, District 2. | ~$130 |
+| **A by T.U.N.G** | Nordic-Vietnamese 17-course menu from Asia's 50 Best youngest chef. Changes every 3 months. The most avant-garde fine dining in HCMC. District 1. | ~$150 |
+
+### Street Food / Hole-in-the-Wall
+| Restaurant | Why | Price |
+|---|---|---|
+| **Pho Le** | 70+ years old. Michelin Bib Gourmand. Southern-style pho perfected over decades. Mixed beef bowl is the order. District 5. The source, not the diaspora version. | ~$3 |
+| **Banh Mi Huynh Hoa** | 35+ year legend. 6-8 layers of cold cuts, pate, butter in a toasted baguette. One thing, perfected. District 1. | ~$3 |
+| **Com Tam Ba Ghien** | Michelin Bib Gourmand. Biggest charcoal-grilled pork chops in Saigon. 3,000+ plates daily. Com tam is THE quintessential Saigon dish. Binh Thanh. | ~$3 |
+| **Banh Xeo 46A** | Operating since 1945. Michelin Bib Gourmand. Still cooks on charcoal. The OG source for what Quan Mii does in OC. District 1. | ~$4 |
+| **Hong Phat** | 50+ years in Saigon's Chinatown. Michelin Bib Gourmand. Khmer-heritage hu tieu noodle soup. The dry version is the order. District 5. | ~$3 |
+
+### Natural Wine
+| Restaurant | Why | Price |
+|---|---|---|
+| **NOB Natural Wine Corner** | Vietnam's FIRST natural wine bar (2022). 40+ natural wines by the glass with Vietnamese vegetarian small plates. Down an alley. The Ordinaire of Saigon. District 1. | ~$10/glass |
+| **Elgin** | Michelin Guide listed. Modern Asian sharing plates + pioneering natural wine program. The Verjus parallel. District 1. | ~$50 |
+
+### Cocktails
+| Restaurant | Why | Price |
+|---|---|---|
+| **Summer Experiment** | First Vietnamese bar on Asia's 50 Best Bars. On-site herb garden, botanical cocktails. The True Laurel parallel. District 1. | ~$10/cocktail |
+
+### Specialty Coffee
+| Restaurant | Why | Price |
+|---|---|---|
+| **The Workshop Coffee** | Saigon's pioneering third-wave roaster. Direct-trade single-origin in a 1912 heritage building. Vietnam is the world's #2 coffee producer. The Song Tea parallel. District 1. | ~$4 |
+
+---
+
+## Summary: All 57 Picks at a Glance
+
+| City | Fine Dining | Street/Asian | Wine/Cocktails | Hole-in-the-Wall | Modern/Italian | Total |
 |---|---|---|---|---|---|---|
 | SF | 3 | 4 | 1 | — | 2 | 10 |
 | LA | 3 | 4 | 1 | 2 | 1 | 11 |
 | Seattle | 2 | 3 | 2 | 2 | 1 | 10 |
 | NYC | 2 | 4 | 1 | — | 2 | 10* |
 | OC | 2 | 4 | 1 | — | — | 8* |
-| **Total** | **12** | **19** | **6** | **4** | **6** | **45** |
+| HCMC | 3 | — | 3 | 5 | 1** | 12 |
+| **Total** | **15** | **19** | **9** | **9** | **7** | **57*** |
 
-*NYC and OC totals include specialty/tea picks
+*NYC and OC totals include specialty/tea picks. **HCMC modern = specialty coffee. ***HCMC total includes coffee pick.
 
 ### The "If You Only Go to One" List
 
@@ -226,7 +265,8 @@
 | Seattle | **Canlis** | The definitive Pacific NW fine dining experience, at a historic peak |
 | NYC | **Atomix** | Korean tasting menu that does for Korean food what Benu does for Chinese |
 | OC | **Pho 79** | James Beard-winning, 40+ year-old strip-mall pho. The spirit of everything you love about eating |
+| HCMC | **Pho Le** | 70-year-old Michelin Bib Gourmand in District 5. $3 southern pho perfected over generations. The source. |
 
 ---
 
-*Research conducted April 2026. Sources: Michelin Guide 2025-2026, Eater, The Infatuation, SF Standard, Resy, James Beard Awards, LA Times, LA Taco, Seattle Met, Brad A. Johnson, and cross-referenced across multiple critics.*
+*Research conducted April 2026. Sources: Michelin Guide 2025-2026, Asia's 50 Best, Eater, The Infatuation, SF Standard, Resy, James Beard Awards, LA Times, LA Taco, Seattle Met, Brad A. Johnson (OC), and cross-referenced across multiple critics.*
