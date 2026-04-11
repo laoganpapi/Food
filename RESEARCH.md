@@ -96,7 +96,7 @@
 ### Tasting Menus
 | Restaurant | Why | Price |
 |---|---|---|
-| **Canlis** | 75-year-old institution, ranked #2 in America by Food & Wine 2025. Pacific NW seasonal. Single Thread's sense-of-place ethos applied to the Northwest. | ~$185 |
+| **The Corson Building** | Chef Emily Crawford Dann cooks elegant, seasonal Pacific NW dishes in a converted 1910 building with a lush, lantern-lit garden. Intimate, communal, deeply place-driven. Lazy Bear energy — the dinner-party-as-restaurant format. Georgetown. | ~$150 |
 | **Atoma** | Seattle Met's 2024 Restaurant of the Year. Eater's 14 Best New in America. A la carte, inventive — more State Bird energy than French Laundry. | ~$80 |
 
 ### Japanese
@@ -261,7 +261,7 @@
 |---|---|---|
 | SF | **The Happy Crane** | Eater's Best New in America, James Beard semifinalist — modern dim sum that bridges your fine dining and Chinese food loves |
 | LA | **n/naka** | Modern kaiseki that bridges your love of Japanese craft and tasting menus |
-| Seattle | **Canlis** | The definitive Pacific NW fine dining experience, at a historic peak |
+| Seattle | **The Corson Building** | Lazy Bear energy in a 1910 building with a garden — intimate, chef-driven, place-driven, zero institutional corniness |
 | NYC | **Atomix** | Korean tasting menu that does for Korean food what Benu does for Chinese |
 | OC | **Pho 79** | James Beard-winning, 40+ year-old strip-mall pho. The spirit of everything you love about eating |
 | HCMC | **Pho Le** | 70-year-old Michelin Bib Gourmand in District 5. $3 southern pho perfected over generations. The source. |
