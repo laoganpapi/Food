@@ -17,7 +17,7 @@
 
 **Sources**: Michelin Guide 2025-2026, Eater national/regional, The Infatuation, SF Standard, Resy, James Beard Awards, LA Times/LA Taco, Seattle Met, Brad A. Johnson (OC), and cross-referenced against multiple critics.
 
-**Total picks: 55** (target: ~10 per city)
+**Total picks: 54** (target: ~10 per city)
 
 ---
 
@@ -210,7 +210,6 @@
 ### Fine Dining / Tasting Menus
 | Restaurant | Why | Price |
 |---|---|---|
-| **Anan Saigon** | One Michelin star, Asia's 50 Best. Chef Peter Cuong Franklin elevates street food into a 12-course tasting. Pho made with consomme, wagyu, foie gras. The Benu of HCMC. District 1. | ~$100 |
 | **CieL** | One Michelin star, earned 7 months after opening (2025). Chef Le Viet Hong (Michelin Young Chef Award). French technique with Vietnamese soul. Thao Dien, District 2. | ~$130 |
 | **A by T.U.N.G** | Nordic-Vietnamese 17-course menu from Asia's 50 Best youngest chef. Changes every 3 months. The most avant-garde fine dining in HCMC. District 1. | ~$150 |
 
@@ -241,7 +240,7 @@
 
 ---
 
-## Summary: All 55 Picks at a Glance
+## Summary: All 54 Picks at a Glance
 
 | City | Fine Dining | Asian | Wine/Cocktails | Hole-in-the-Wall | Modern/Italian | Total |
 |---|---|---|---|---|---|---|
@@ -250,8 +249,8 @@
 | Seattle | 2 | 2 | 2 | 2 | 1 | 9 |
 | NYC | 2 | 4 | 1 | — | 2 | 10* |
 | OC | 2 | 4 | 1 | — | — | 8* |
-| HCMC | 3 | 5 | 3 | — | 1** | 12 |
-| **Total** | **15** | **22** | **9** | **4** | **7** | **55*** |
+| HCMC | 2 | 5 | 3 | — | 1** | 11 |
+| **Total** | **14** | **22** | **9** | **4** | **7** | **54*** |
 
 *NYC and OC totals include specialty/tea picks. **HCMC modern = specialty coffee. ***Totals include specialty picks. Sichuan-heavy spots removed per user preference.
 
