@@ -17,7 +17,7 @@
 
 **Sources**: Michelin Guide 2025-2026, Eater national/regional, The Infatuation, SF Standard, Resy, James Beard Awards, LA Times/LA Taco, Seattle Met, Brad A. Johnson (OC), and cross-referenced against multiple critics.
 
-**Total picks: 57** (target: ~10 per city)
+**Total picks: 55** (target: ~10 per city)
 
 ---
 
@@ -70,7 +70,6 @@
 | **Sapp Coffee Shop** | Thai Town since the 1970s. Jonathan Gold's beloved. Devastating boat noodle soup. The Yamo of LA. | ~$12 |
 | **Night + Market** | Chef Kris Yenbamroong's bold, funky Thai. Pastrami drunken noodles. State Bird energy applied to Thai food. | ~$25 |
 | **Chosun Galbee** | Old-school Koreatown KBBQ. Superior galbi and banchan depth. A cut above the rest. | ~$65 |
-| **Xiang La Hui** | Sleeper Sichuan hit in SGV. Chongqing fried chicken, toothpick lamb. Rewards knowing what to order. | ~$20 |
 
 ### Mexican
 | Restaurant | Why | Price |
@@ -114,7 +113,7 @@
 ### Chinese
 | Restaurant | Why | Price |
 |---|---|---|
-| **Chengdu Memory** | The Sichuan spot. Serious ma la depth. Seattle's Chinese scene is strongest in Sichuan — this is the best. | ~$25 |
+| *(skipped — Sichuan heavy; Seattle's Chinese scene doesn't have a standout Cantonese that matches your bar)* | | |
 
 ### Natural Wine
 | Restaurant | Why | Price |
@@ -190,7 +189,7 @@
 ### Chinese
 | Restaurant | Why | Price |
 |---|---|---|
-| **Sichuan Impression** | Michelin Guide, Jonathan Gold's LA Times 101 three times. Fiery mala with serious depth. Your Chili House / Ming's Tasty parallel. | ~$28 |
+| **Newport Seafood** | Legendary Cantonese-Vietnamese seafood. The house special lobster with garlic, pepper, and scallion is the must-order. The Newport Beach location is in OC proper. No mala in sight. | ~$60 |
 
 ### Thai
 | Restaurant | Why | Price |
@@ -242,19 +241,19 @@
 
 ---
 
-## Summary: All 57 Picks at a Glance
+## Summary: All 55 Picks at a Glance
 
-| City | Fine Dining | Street/Asian | Wine/Cocktails | Hole-in-the-Wall | Modern/Italian | Total |
+| City | Fine Dining | Asian | Wine/Cocktails | Hole-in-the-Wall | Modern/Italian | Total |
 |---|---|---|---|---|---|---|
 | SF | 3 | 4 | 1 | — | 2 | 10 |
-| LA | 3 | 4 | 1 | 2 | 1 | 11 |
-| Seattle | 2 | 3 | 2 | 2 | 1 | 10 |
+| LA | 3 | 3 | 1 | 2 | 1 | 10 |
+| Seattle | 2 | 2 | 2 | 2 | 1 | 9 |
 | NYC | 2 | 4 | 1 | — | 2 | 10* |
 | OC | 2 | 4 | 1 | — | — | 8* |
-| HCMC | 3 | — | 3 | 5 | 1** | 12 |
-| **Total** | **15** | **19** | **9** | **9** | **7** | **57*** |
+| HCMC | 3 | 5 | 3 | — | 1** | 12 |
+| **Total** | **15** | **22** | **9** | **4** | **7** | **55*** |
 
-*NYC and OC totals include specialty/tea picks. **HCMC modern = specialty coffee. ***HCMC total includes coffee pick.
+*NYC and OC totals include specialty/tea picks. **HCMC modern = specialty coffee. ***Totals include specialty picks. Sichuan-heavy spots removed per user preference.
 
 ### The "If You Only Go to One" List
 
